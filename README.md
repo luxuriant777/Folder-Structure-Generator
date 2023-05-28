@@ -122,13 +122,13 @@ it manually. If for some reason it is not installed, you can use the following c
 2. Run the script using the following command:
     
     ```bash
-    python folder-structure-creator.py
+    python fs-maker.py
     ```
     
     or
     
     ```bash
-    python3 folder-structure-creator.py
+    python3 fs-maker.py
     ```
 
 3. Once you have defined the desired folder and file structure in JSON format, input it in the corresponding
