@@ -133,6 +133,7 @@ it manually. If for some reason it is not installed, you can use the following c
 
 3. Once you have defined the desired folder and file structure in JSON format, input it in the corresponding
     form:
+
     ![Screenshot_1](https://github.com/luxuriant777/awesome-generator/assets/20545475/8180470f-5dc0-4e3d-9e22-65e3a53e3a92)
 
     The default template may be deleted.
@@ -160,11 +161,10 @@ on the `dev` branch or report an issue.
 
 ## Disclaimer
 While every effort has been made to ensure the accuracy and reliability of this software, it is provided "as is",
-without warranty of any kind, expressed or implied. This includes, but is not limited to, the implied warranties
-of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors be
-liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise,
-arising from, out of, or in connection with the software or the use or other dealings in the software.
+without warranty of any kind, expressed or implied. This encompasses any assurances of suitability for a
+specific purpose or non-infringement. The authors hold no liability for claims, damages, or any other liabilities
+that might arise in connection with the software, its usage, or any related dealings.
 
-Users of this tool are solely responsible for determining the appropriateness of use and assume all risks 
-associated with its use, including but not limited to the risks of program errors, damage to or loss of data, 
-programs or equipment, and unavailability or interruption of operations.
+End-users bear the sole responsibility of deeming its appropriateness for use and accepting all inherent risks. 
+These risks may include, among others, program errors, data loss or damage, equipment failure, or operational 
+interruptions.
