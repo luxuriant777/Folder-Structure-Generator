@@ -133,6 +133,7 @@ it manually. If for some reason it is not installed, you can use the following c
 
 3. Once you have defined the desired folder and file structure in JSON format, input it in the corresponding
     form:
+    ![Screenshot_1](https://github.com/luxuriant777/awesome-generator/assets/20545475/8180470f-5dc0-4e3d-9e22-65e3a53e3a92)
 
     The default template may be deleted.
 
