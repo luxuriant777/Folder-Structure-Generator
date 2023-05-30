@@ -83,7 +83,7 @@ these files and folders created.
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/luxuriant777/awesome-generator
+    git clone https://github.com/luxuriant777/Folder-Structure-Generator
     ```
 
 2. Ensure Python is Installed:
