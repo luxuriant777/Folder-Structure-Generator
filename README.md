@@ -116,7 +116,7 @@ it manually. If for some reason it is not installed, you can use the following c
 1. Navigate to the cloned repository:
 
     ```bash
-    cd awesome-generator
+    cd Folder-Structure-Generator
     ```
 
 2. Run the script using the following command:
